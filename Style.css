@@ -1,0 +1,36 @@
+.body { 
+margin:0 auto;
+height:100%;
+width:100%;
+}
+.Topbar{ 
+	margin:0 auto;
+	position:relative;
+	height:10vh;
+	width:100vw;
+	background-color:red;
+	padding:-3;
+	overflow-x:hidden;
+	overflow-y:hidden;
+}
+.Leftbar {
+  position:relative;
+  margin:0,auto;
+  background-color:blue;
+  width:15vw;
+  height:100vh;
+  padding-left:0px;
+  padding-top:0px;
+}
+.button1{
+  line-height:6vh;
+  text-align:center;
+  position:relative;
+  height:6vh;
+  width:10vw;
+  background-color: #c6cccc;
+  margin-top:1vh;
+  margin-bottom: 95vh;
+  margin-left:88vw;
+  
+}
