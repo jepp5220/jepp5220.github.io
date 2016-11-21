@@ -1,15 +1,13 @@
-.body { 
-margin:0;
+.body { margin:0 auto;
 height:100%;
 width:100%;
-Overflow:Hidden;
 }
 .Topbar{ 
 	margin:0 auto;
 	position:relative;
 	height:10vh;
 	width:100vw;
-	background-color:red;
+	background-color:grey;
 	padding:-3;
 	overflow-x:hidden;
 	overflow-y:hidden;
@@ -17,7 +15,7 @@ Overflow:Hidden;
 .Leftbar {
   position:relative;
   margin:0,auto;
-  background-color:blue;
+  background-color:black;
   width:15vw;
   height:100vh;
   padding-left:0px;
@@ -31,7 +29,7 @@ Overflow:Hidden;
   width:10vw;
   background-color: #c6cccc;
   margin-top:1vh;
-  margin-bottom: 94vh;
+  margin-bottom: 95vh;
   margin-left:88vw;
   
 }
